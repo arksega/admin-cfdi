@@ -36,7 +36,7 @@ from tkinter.filedialog import askopenfilename
 from tkinter import messagebox
 from pysimplesoap.client import SoapClient, SoapFault
 from selenium import webdriver
-from values import Global
+from admincfdi.values import Global
 try:
     from subprocess import DEVNULL
 except ImportError:

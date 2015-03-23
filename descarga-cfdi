@@ -2,7 +2,7 @@ import argparse
 import time
 import datetime
 
-from pyutil import DescargaSAT
+from admincfdi.pyutil import DescargaSAT
 
 
 def process_command_line_arguments():
